@@ -1,0 +1,16 @@
+:root {
+  --bg-main: #f5f7fb;
+  --bg-card: #ffffff;
+  --bg-sidebar: #0f172a;
+
+  --text-primary: #0f172a;
+  --text-secondary: #6b7280;
+
+  --primary: #2563eb;
+  --success: #16a34a;
+  --danger: #dc2626;
+  --warning: #f59e0b;
+
+  --radius: 10px;
+  --shadow: 0 4px 14px rgba(0, 0, 0, 0.06);
+}

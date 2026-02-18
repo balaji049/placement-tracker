@@ -1,0 +1,36 @@
+# dependencies
+node_modules/
+
+# env files
+.env
+.env.local
+.env.*
+
+# logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# build output
+dist
+build
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# uploads
+uploads/
+
+# frontend
+placement-tracker-frontend/node_modules/
+
+# backend
+backend/node_modules/
+backend/.env

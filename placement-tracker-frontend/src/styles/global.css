@@ -1,0 +1,14 @@
+@import "./theme.css";
+
+body {
+  background-color: var(--bg-main);
+  color: var(--text-primary);
+}
+@keyframes skeleton {
+  0% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0 50%;
+  }
+}
